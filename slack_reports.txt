@@ -1,0 +1,160 @@
+*Agent Name*: AgentFirst1 AgentLast1
+*Total Calls Made*: 20
+*Unique Loans Contacted*: 20
+*Connect Rate*: 10.00%
+*Average Call Duration*: 6.84 minutes
+*Presence*: Yes
+
+
+*Agent Name*: AgentFirst2 AgentLast2
+*Total Calls Made*: 23
+*Unique Loans Contacted*: 23
+*Connect Rate*: 13.04%
+*Average Call Duration*: 7.83 minutes
+*Presence*: Yes
+
+
+*Agent Name*: AgentFirst3 AgentLast3
+*Total Calls Made*: 21
+*Unique Loans Contacted*: 21
+*Connect Rate*: 38.10%
+*Average Call Duration*: 7.17 minutes
+*Presence*: Yes
+
+
+*Agent Name*: AgentFirst4 AgentLast4
+*Total Calls Made*: 27
+*Unique Loans Contacted*: 27
+*Connect Rate*: 14.81%
+*Average Call Duration*: 8.06 minutes
+*Presence*: Yes
+
+
+*Agent Name*: AgentFirst5 AgentLast5
+*Total Calls Made*: 29
+*Unique Loans Contacted*: 28
+*Connect Rate*: 13.79%
+*Average Call Duration*: 7.06 minutes
+*Presence*: No
+
+
+*Agent Name*: AgentFirst6 AgentLast6
+*Total Calls Made*: 16
+*Unique Loans Contacted*: 16
+*Connect Rate*: 12.50%
+*Average Call Duration*: 8.84 minutes
+*Presence*: Yes
+
+
+*Agent Name*: AgentFirst7 AgentLast7
+*Total Calls Made*: 24
+*Unique Loans Contacted*: 23
+*Connect Rate*: 20.83%
+*Average Call Duration*: 7.04 minutes
+*Presence*: Yes
+
+
+*Agent Name*: AgentFirst8 AgentLast8
+*Total Calls Made*: 29
+*Unique Loans Contacted*: 29
+*Connect Rate*: 27.59%
+*Average Call Duration*: 6.60 minutes
+*Presence*: Yes
+
+
+*Agent Name*: AgentFirst9 AgentLast9
+*Total Calls Made*: 26
+*Unique Loans Contacted*: 25
+*Connect Rate*: 26.92%
+*Average Call Duration*: 7.39 minutes
+*Presence*: Yes
+
+
+*Agent Name*: AgentFirst10 AgentLast10
+*Total Calls Made*: 38
+*Unique Loans Contacted*: 38
+*Connect Rate*: 18.42%
+*Average Call Duration*: 8.08 minutes
+*Presence*: Yes
+
+
+*Agent Name*: AgentFirst11 AgentLast11
+*Total Calls Made*: 22
+*Unique Loans Contacted*: 22
+*Connect Rate*: 22.73%
+*Average Call Duration*: 9.07 minutes
+*Presence*: Yes
+
+
+*Agent Name*: AgentFirst12 AgentLast12
+*Total Calls Made*: 20
+*Unique Loans Contacted*: 20
+*Connect Rate*: 25.00%
+*Average Call Duration*: 7.10 minutes
+*Presence*: No
+
+
+*Agent Name*: AgentFirst13 AgentLast13
+*Total Calls Made*: 22
+*Unique Loans Contacted*: 22
+*Connect Rate*: 9.09%
+*Average Call Duration*: 6.88 minutes
+*Presence*: Yes
+
+
+*Agent Name*: AgentFirst14 AgentLast14
+*Total Calls Made*: 30
+*Unique Loans Contacted*: 30
+*Connect Rate*: 33.33%
+*Average Call Duration*: 7.70 minutes
+*Presence*: Yes
+
+
+*Agent Name*: AgentFirst15 AgentLast15
+*Total Calls Made*: 28
+*Unique Loans Contacted*: 27
+*Connect Rate*: 14.29%
+*Average Call Duration*: 8.51 minutes
+*Presence*: Yes
+
+
+*Agent Name*: AgentFirst16 AgentLast16
+*Total Calls Made*: 22
+*Unique Loans Contacted*: 22
+*Connect Rate*: 27.27%
+*Average Call Duration*: 8.70 minutes
+*Presence*: Yes
+
+
+*Agent Name*: AgentFirst17 AgentLast17
+*Total Calls Made*: 20
+*Unique Loans Contacted*: 19
+*Connect Rate*: 10.00%
+*Average Call Duration*: 6.67 minutes
+*Presence*: Yes
+
+
+*Agent Name*: AgentFirst18 AgentLast18
+*Total Calls Made*: 35
+*Unique Loans Contacted*: 34
+*Connect Rate*: 17.14%
+*Average Call Duration*: 7.49 minutes
+*Presence*: No
+
+
+*Agent Name*: AgentFirst19 AgentLast19
+*Total Calls Made*: 27
+*Unique Loans Contacted*: 27
+*Connect Rate*: 22.22%
+*Average Call Duration*: 6.92 minutes
+*Presence*: Yes
+
+
+*Agent Name*: AgentFirst20 AgentLast20
+*Total Calls Made*: 21
+*Unique Loans Contacted*: 21
+*Connect Rate*: 33.33%
+*Average Call Duration*: 6.56 minutes
+*Presence*: Yes
+
+
